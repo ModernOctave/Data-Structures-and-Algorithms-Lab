@@ -1,0 +1,5 @@
+minimum
+postorder
+predecessor 3
+maximum
+preorder
